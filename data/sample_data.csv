@@ -1,0 +1,11 @@
+StudentID,PreviousSemesterGrades,Attendance,StudyHours,TestScores
+1,A,90%,5,88
+2,B,85%,3,79
+3,A+,95%,6,90
+4,C,75%,4,70
+5,B+,88%,5,80
+6,A,92%,6,85
+7,B,80%,3,75
+8,A-,87%,4,82
+9,C+,78%,3,72
+10,A,91%,5,86
